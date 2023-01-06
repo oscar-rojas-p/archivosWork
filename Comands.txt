@@ -1,0 +1,5 @@
+win + d - minimizar todas las paginas
+win + shift + s - recorte de pantalla
+win + print - captura de pantalla
+win + v - portapapeles
+win + m - minimizar una pestaña
