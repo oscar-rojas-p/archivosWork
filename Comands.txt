@@ -3,3 +3,4 @@ win + shift + s - recorte de pantalla
 win + print - captura de pantalla
 win + v - portapapeles
 win + m - minimizar una pestaña
+alt + (izquierda/derecha)	regresar o avanzar en las selecciones anteriores
